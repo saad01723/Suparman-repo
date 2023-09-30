@@ -1,0 +1,106 @@
+#superman-banner{
+    margin-left: 150px;
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-between;
+}
+.superman-left{
+    width: 500px;
+    height: 300px;
+   
+}
+.superman-left h1{
+    color:grey;
+    margin-top: 70px;
+    font-size: 55px;
+    font-weight: 900px;
+}
+.superman-left h3{
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+span{
+    color: tomato;
+}   
+.superman-right img{
+    width:650px;
+   margin-right: 500px;
+   height: 100%;
+   
+}
+#superman-blog{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 150px;   
+    margin-left: 250px; 
+}
+.blog-left{
+    width: 650px;
+    height: 100%;
+}
+.blog-right h1{
+    font-weight: 900px;
+    font-size: 40px;
+}
+.blog-right{
+    margin-top: 100px;
+    width: 550px;
+    height: 100%;
+    padding-top: 35px;
+}
+h1{
+    margin-right: 30px;
+}
+.blog-right h1{
+    margin-right: 200px;
+}
+.h1 h1{
+    margin-left: 200px;
+}
+#new-id{
+    display: flex;
+    margin-left: 150px;
+    
+}
+.class01{
+    width: 400px;
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+    margin-left: 50px;
+    padding: 0px 15px 0px 15px ;
+}
+.class01 img{
+    padding-top: 5px;
+    width:30px ;
+}
+.class02{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+    width: 400px;
+    height: 200px;
+    margin-left: 150px;
+    padding: 0px 15px 0px 15px ;
+}
+.class02 img{
+    width: 30px;
+    padding-top: 5px;
+}
+.class03{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+    width: 400px;
+    height: 200px;
+    margin-left: 150px;
+    padding: 0px 15px 0px 15px ;
+}
+.class03 img{
+    width: 30px;
+    padding-top: 10px;
+}
+
+
+    
+
+   
+
+
+
